@@ -1,7 +1,22 @@
-# 取名好难
-这是我们的比赛文件
+# CSUST
+本仓库包含了取名好难队所有的源代码以及训练、测试指令等。
+# Contents
+1. [Introduction](#introduction)
+2. [Data Preparation](#Data Preparation)
+3. [Train](#train)
+4. [Test](#test)
+5. [Ensemble](#ensemble)
+6. [Contacts](#contacts)
+## Introduction
+
 ## Data Preparation
 请转到TEGCN文件夹下
 
-## Model inference
+## Train
+
+##Test
+
+##Ensemble
+
+##Contacts
 
