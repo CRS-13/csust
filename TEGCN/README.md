@@ -7,7 +7,7 @@ Note that:
 cd TEGCN
 mkdir data
 ```
-Download the data in [baidupan](https://github.com/xieyulai/UAVHuman_For_TE-GCN)
+Download the data in [baidupan](https://github.com/xieyulai/UAVHuman_For_TE-GCN)  
 Put downloaded data into the following directory structure:
 
 ```
