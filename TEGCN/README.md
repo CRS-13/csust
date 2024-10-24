@@ -1,6 +1,6 @@
 # TEGCN
 Note that:
-- This code is based on [TEGCN](https://github.com/xieyulai/TE-GCN)
+- This code is based on [TE-GCN](https://github.com/xieyulai/TE-GCN)
 
 ## Data preparation
 ```
