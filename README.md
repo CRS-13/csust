@@ -4,14 +4,47 @@
 ```
 conda env create -f environment.yaml
 ```
-## Introduction
-
-## Data_Preparation
-请转到TEGCN文件夹下
-
+## Data preparation
+```
+mkdir data
+```  
+Download the data in [baidupan](https://github.com/xieyulai/UAVHuman_For_TE-GCN)  
+Put downloaded data into the following directory structure:
+```
+—— data
+    —— train_data.npy
+```
 ## Train
+### [TE-GCN](https://github.com/xieyulai/TE-GCN)
+Download the data in [baidupan](https://github.com/xieyulai/UAVHuman_For_TE-GCN)  
+Put downloaded data into the following directory structure:
 
-## Test
+```
+—— data
+    —— train_data.npy
+```
+
+# Training & Testing
+## [TE-GCN](https://github.com/xieyulai/TE-GCN)
+### TRAIN
+You can train the your model using the scripts:
+```
+cd TEGCN
+sh scripts/TRAIN_V2.sh
+```
+
+### TEST
+You can test the your model using the scripts:
+```
+cd TEGCN
+sh scripts/EVAL_V2.sh
+```
+## [TOP](https://github.com/liujf69/ICMEW2024-Track10)
+### TRAIN
+You can train the your model using the scripts:
+```
+
+```
 
 ## Ensemble
 
