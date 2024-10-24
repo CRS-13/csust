@@ -16,11 +16,13 @@ Your `data/` should be like this:
 ## TRAIN
 You can train the your model using the scripts:
 ```
+cd TEGCN
 sh scripts/TRAIN_V2.sh
 ```
 
 ## TEST
 You can test the your model using the scripts:
 ```
+cd TEGCN
 sh scripts/EVAL_V2.sh
 ```
