@@ -14,8 +14,6 @@ Put downloaded data into the following directory structure:
 —— data
     —— train_data.npy
 ```
-## Train
-### [TE-GCN](https://github.com/xieyulai/TE-GCN)
 Download the data in [baidupan](https://github.com/xieyulai/UAVHuman_For_TE-GCN)  
 Put downloaded data into the following directory structure:
 
