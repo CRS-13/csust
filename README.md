@@ -1,6 +1,5 @@
 # CSUST
 本仓库包含了取名好难队所有的源代码以及训练、测试指令等。
-百度网盘地址：
 ## Preparing GCN（这里包括了TEGCN和TOP的所有环境配置）
 ```
 conda env create -f environment.yaml
