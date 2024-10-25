@@ -9,25 +9,11 @@ conda env create -f environment.yaml
 ```
 git clone https://github.com/CRS-13/csust.git
 cd csust
-```  
-Download the data in [baidupan](https://github.com/xieyulai/UAVHuman_For_TE-GCN)  
-Put downloaded data into the following directory structure:
 ```
-—— data
-    —— train_data.npy
-```
-Download the data in [baidupan](https://github.com/xieyulai/UAVHuman_For_TE-GCN)  
-Put downloaded data into the following directory structure:
-
-```
-—— data
-    —— train_data.npy
-```
-
 # Training & Testing
 ## [TE-GCN](https://github.com/xieyulai/TE-GCN)
 ```
-cd TEGCN
+cd TE-GCN
 ```
 ### Data preparation
 ```
