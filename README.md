@@ -7,6 +7,8 @@ conda env create -f environment.yaml
 ```
 ## Data preparation
 ```
+git clone https://github.com/CRS-13/csust.git
+cd csust
 mkdir data
 ```  
 Download the data in [baidupan](https://github.com/xieyulai/UAVHuman_For_TE-GCN)  
